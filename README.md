@@ -12,4 +12,8 @@ This is an assignment repo for the final part of A1.  Please see the original [A
 
 We've set up this repository (and the associated assignment) so that part 3 of A1 can be submitted separately.
 
-When you are done with A1, parts 1 and 2, you should copy your src/SG.ts here, and put your assignment in index.html and src/app.ts.  We've provided an example of what this assignment might look like, that you can use as a starting point.
+When you are done with A1, parts 1 and 2, you should copy your src/SG.ts here, and put your assignment in index.html and src/app.ts.  We've provided an example of what this assignment might look like, that you can use as a starting point.  Your scene should be more complex, and satisfy the requirements laid out in the A1 README.
+
+The provided example looks like this when run:
+
+![scene 1](img/a1b.gif)
